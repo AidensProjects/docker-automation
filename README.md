@@ -1,5 +1,5 @@
-# docker-automation
-Automate Docker Commands in Windows Terminal Console via Python
+# Docker-Automation
+## Automate Docker Commands in Windows Terminal Console via Python
 
 - Docker automation tool using python (docker-automation.py)
 - Built with, Microsoft Windows 10 Home: Version - 10.0.19043
