@@ -11,15 +11,15 @@ Allows a user to containerize an application (the application used for demonstra
 This is done via Images, said images are able to be automatically created via my automation tool.
 Now that a container is created via the user created image, the user can host a website on their local machine]
 
-This Automation Tool Includes:
+<br>This Automation Tool Includes: <br/>
 Creating Containers, Deleteing Containers
 Name/Rename Containers
 View all Running/Unused Containers
 
-Building Images -> Running a Container with that Image
+<br>Building Images -> Running a Container with that Image<br/>
 Name/Rename Images
 View all Images
 
-Creating Volumes -> Mounting volumes to Containers
+<br>Creating Volumes -> Mounting volumes to Containers<br/>
 Copy Volumes Between Containers
 View all Volumes
