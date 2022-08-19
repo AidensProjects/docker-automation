@@ -1,0 +1,4 @@
+# Dockerfiles build images via commands below
+
+FROM nginx:latest
+ADD . /usr/share/nginx/html/
